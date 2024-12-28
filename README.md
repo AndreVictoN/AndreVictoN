@@ -97,23 +97,16 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/and_rrv/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
   <a href="discordapp.com/users/457666216761491457" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="andrevictor20011@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.instagram.com/and_rrv/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://wa.me/+5531993319585" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <a href="https://www.linkedin.com/in/andré-victor-gonçalves-nascimento-1177ab305/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNkMDQ3dW91dXMzZnN3dDYwMDJxemY1aGo2cTh4cXFnZzd0dG50MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G9qfCvxlwGAaQ/giphy.gif"  />
 
 ###
 
@@ -121,5 +114,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AndreVictoN&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreVictoN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNkMDQ3dW91dXMzZnN3dDYwMDJxemY1aGo2cTh4cXFnZzd0dG50MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G9qfCvxlwGAaQ/giphy.gif"  />
 
 ###
