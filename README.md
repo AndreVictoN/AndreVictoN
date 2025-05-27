@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📚 Studying computer science at a brazillian vocational school called CEFET-MG.<br>📈 Second year of High School<br>🔒 I keep my personal projects private until they are concluded.<br>🎮 I love game design and game programming!</p>
+<p align="left">📚 Studying computer science at a brazillian vocational school called CEFET-MG.<br>📈 Third year of High School<br>🔒 I keep my personal projects private until they are concluded.<br>🎮 I love game design and game programming!</p>
 
 ###
 
