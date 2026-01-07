@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="left">Most used tools:</h2>
+<h2 align="left">IDE's and Code Editors:</h2>
 
 ###
 
@@ -55,10 +55,40 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
+</div>
+
+###
+
+<h2 align="left">Game Engines:</h2>
+
+###
+
+<div align="left">
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="gamemakerstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="40" alt="godot logo"  />
+</div>
+
+###
+
+<h2 align="left">Version Control:</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+</div>
+
+###
+
+<h2 align="left">Operational Systems:</h2>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -84,6 +114,8 @@
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="gamemakerstudio logo"  />
 </div>
 
 ###
@@ -100,10 +132,8 @@
 
 ###
 
-<img align="right" height="200" src="https://78.media.tumblr.com/91c0cd27f27fe9080ede8cfd0d77d458/tumblr_oz6rcs1Jya1whtmauo1_540.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/AndreVictoN/AndreVictoN/output/snake.svg" alt="Snake animation" />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+</div>
 
 ###
