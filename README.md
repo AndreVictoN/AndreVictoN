@@ -132,6 +132,12 @@
 
 ###
 
+<div align="right">
+  <img height="200" src="https://78.media.tumblr.com/91c0cd27f27fe9080ede8cfd0d77d458/tumblr_oz6rcs1Jya1whtmauo1_540.gif"  />
+</div>
+
+###
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
