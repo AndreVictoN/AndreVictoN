@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="left">I have basic knowledge of</h2>
+<h2 align="left">I have knowledge of</h2>
 
 ###
 
@@ -42,6 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
 </div>
 
 ###
@@ -107,11 +109,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="40" alt="godot logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/ruby/CC342D" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
   <img width="12" />
