@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Software Engineering Student at FIAP.<br>📈 IT Technician from CEFET-MG<br>🌎 Bilingual (PT-BR/EN)<br>🔒 I keep my personal projects private until they are concluded.<br>🎮 I love game development!<br>🎯 Currently deepening my knowledge in Game Development and AI<br>✉️ My email: andrevictorgnascimentodev@gmail.com</p>
+<p align="left">📚 Software Engineering Student at FIAP.<br>📈 IT Technician from CEFET-MG<br>🌎 Bilingual (PT-BR/EN)<br>🔒 I keep most of my personal projects private until they are concluded.<br>🎮 I love game development!<br>🎯 Currently deepening my knowledge in Game Development and AI<br>✉️ My email: andrevictorgnascimentodev@gmail.com</p>
 
 ###
 
