@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a 17yo Brazilian software and game developer.</p>
+<p align="left">I'm a 18yo Brazilian software and game developer.</p>
 
 ###
 
