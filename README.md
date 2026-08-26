@@ -109,11 +109,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="40" alt="godot logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/ruby/CC342D" height="40" alt="ruby logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="gamemakerstudio logo"  />
 </div>
 
 ###
