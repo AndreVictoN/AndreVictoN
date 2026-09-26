@@ -31,7 +31,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">🔮 Linguagens de Programação</h4>
+<h4 data-importer="text" align="left">🔮 Linguagens</h4>
 
 ###
 
