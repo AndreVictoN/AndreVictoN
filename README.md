@@ -1,139 +1,170 @@
-<h1 align="left">Hey 👋, I'm André!</h1>
+[Português Brasileiro Aqui](/README-PTBR.md)
+
+<h1 data-importer="text" align="center">Hey 👋, I'm André!</h1>
 
 ###
 
-<p align="left">I'm a 18yo Brazilian software and game developer.</p>
+<h3 data-importer="text" align="center">A 18yo brazilian software & game developer.</h3>
 
 ###
 
-<h2 align="left">About me</h2>
+👨‍🎓 Software Engineering student at FIAP<br>🎓 IT technician at CEFET-MG
 
 ###
 
-<p align="left">📚 Software Engineering Student at FIAP.<br>📈 IT Technician from CEFET-MG<br>🌎 Bilingual (PT-BR/EN)<br>🔒 I keep most of my personal projects private until they are concluded.<br>🎮 I love game development!<br>🎯 Currently deepening my knowledge in Game/Software Development and APIs<br>✉️ My email: andrevictorgnascimentodev@gmail.com</p>
+🌎 Bilingual (EN/PT-BR) - C1 English proficiency certified by Cambridge English<br>🎮 Passionate about game development.<br>⌚ Currently, I'm interested in backend development, game programming, APIs and databases.<br>📨 Contact me : **andrevictorgnascimentodev@gmail.com**
 
 ###
 
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
-</div>
-
-###
-
-<h2 align="left">I have knowledge of</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-</div>
-
-###
-
-<h2 align="left">IDE's and Code Editors:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
-</div>
-
-###
-
-<h2 align="left">Game Engines:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="gamemakerstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="40" alt="godot logo"  />
-</div>
-
-###
-
-<h2 align="left">Version Control:</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
-
-###
-
-<h2 align="left">Operational Systems:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
-
-###
-
-<h2 align="left">My interests:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
-</div>
-
-###
-
-<h2 align="left">Contact me!</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/andre-victor-gon%C3%A7alves-nascimento-1177ab305/" target="_blank">
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/andrevictorgoncalvesnascimento/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<div align="right">
-  <img height="200" src="https://78.media.tumblr.com/91c0cd27f27fe9080ede8cfd0d77d458/tumblr_oz6rcs1Jya1whtmauo1_540.gif"  />
+<h2 data-importer="text" align="left">⚙ Tech Stack</h2>
+
+###
+
+<h4 data-importer="text" align="left">🔮 Programming Languages</h4>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div>
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+<h4 data-importer="text" align="left">🕹 Game Engines</h4>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="gamemakerstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+</div>
+
+###
+
+<h4 data-importer="text" align="left">👨‍💻 Frameworks</h4>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+</div>
+
+###
+
+<h4 data-importer="text" align="left">📂 Database</h4>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<h4 data-importer="text" align="left">🛠 Tools & IDEs</h4>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<h2 data-importer="text" align="left">🎲 Game Development Skills</h2>
+
+###
+
+<p data-importer="text" align="left">📌 Unity-focused developer<br>🎱 Gameplay Programming<br>🧰 Game Mechanics and Systems<br>🥽 2D and 3D Development<br>👨‍🔬 2D Physics<br>🧵 2D Animation<br>🎞 UI Animation<br>💥 VFX<br>🌌 Unity URP<br>🌊 Shader Graph<br>🖼 Pixel art with Aseprite</p>
+
+###
+
+<h2 data-importer="text" align="left">✨ Highlighted Projects</h2>
+
+###
+
+<h3 data-importer="text" align="left">💻 Software Development Projects</h3>
+
+###
+
+📸 [Camssify](https://github.com/DAC-Developers-And-Coders/Camssify-JOVI-Python) - Python | OpenCV | Google APIs | OAuth<br>
+🃏 [PersonaAPI](https://github.com/DAC-Developers-And-Coders/PersonaAPI) - Python | FastAPI | SQLite | JavaScript<br>
+🛰 [NebulaNoise](https://github.com/DAC-Developers-And-Coders/GS_NebulaNoise) - Python | Calculus
+
+###
+
+<h3 data-importer="text" align="left">👾 Game Development Projects</h3>
+
+###
+
+🎭 [Anxiety](https://github.com/AndreVictoN/TCC_Anxiety) - Unity | C# | Design Patterns | Dialogue | Turn-Based Combat<br>
+🎶 [RythmReaper](https://github.com/AndreVictoN/RythmReaper) - Unity | C# | Music Synchronization | Scoring | Health<br>
+💫 [SpinnerBlades](https://github.com/AndreVictoN/SpinnerBlades) - Unity | C# | Player vs. CPU | QTE | Button Mashing | 2D Physics<br>
+🦍 [MineKong](https://github.com/5byp8r/DonkeyKongGameLP1) - C++ | SFML | Game Loop | Collisions | On-Screen Object Positioning
+
+###
+
+<div data-importer="image" align="left">
+  <img data-importer="image" height="150" src="https://78.media.tumblr.com/91c0cd27f27fe9080ede8cfd0d77d458/tumblr_oz6rcs1Jya1whtmauo1_540.gif"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreVictoN/AndreVictoN/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreVictoN/AndreVictoN/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AndreVictoN/AndreVictoN/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=8F40DD"  />
 </div>
 
 ###
