@@ -4,7 +4,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">A 18yo brazilian software & game developer.</h3>
+<h3 data-importer="text" align="center">A brazilian software & game developer.</h3>
 
 ###
 
