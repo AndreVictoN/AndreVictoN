@@ -173,10 +173,10 @@
 
 ###
 
-<picture data-importer="pacman">
-&#x20; <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreVictoN/AndreVictoN/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-&#x20; <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreVictoN/AndreVictoN/pacman-output/pacman-contribution-graph.svg?game=pacman">
-&#x20; <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AndreVictoN/AndreVictoN/pacman-output/pacman-contribution-graph.svg?game=pacman">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreVictoN/AndreVictoN/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreVictoN/AndreVictoN/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AndreVictoN/AndreVictoN/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
