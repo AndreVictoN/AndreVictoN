@@ -31,7 +31,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">🔮 Programming Languages</h4>
+<h4 data-importer="text" align="left">🔮 Languages</h4>
 
 ###
 
