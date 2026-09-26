@@ -12,7 +12,7 @@
 
 ###
 
-🌎 Bilingual (EN/PT-BR) - C1 English proficiency certified by Cambridge English<br>🎮 Passionate about game development.<br>⌚ Currently, I'm interested in backend development, game programming, APIs and databases.<br>📨 Contact me : **andrevictorgnascimentodev@gmail.com**
+🌎 Bilingual (EN/PT-BR) - C1 English proficiency certified by Cambridge English<br>🎮 Passionate about game development.<br>⌚ Currently, I'm interested in software development, backend systems, game programming, APIs and databases.<br>📨 Contact me : **andrevictorgnascimentodev@gmail.com**
 
 ###
 
@@ -75,7 +75,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
 </div>
 
 ###
@@ -89,7 +88,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
 ###
@@ -116,13 +114,30 @@
 
 ###
 
-<h2 data-importer="text" align="left">🎲 Game Development Skills</h2>
+<h2 data-importer="text" align="left">🎲 Game Development</h2>
 
 ###
 
-<p data-importer="text" align="left">📌 Unity-focused developer<br>🎱 Gameplay Programming<br>🧰 Game Mechanics and Systems<br>🥽 2D and 3D Development<br>👨‍🔬 2D Physics<br>🧵 2D Animation<br>🎞 UI Animation<br>💥 VFX<br>🌌 Unity URP<br>🌊 Shader Graph<br>🖼 Pixel art with Aseprite</p>
+<p data-importer="text" align="left">📌 Unity-focused development<br>🎱 Gameplay Programming<br>🧰 Game Mechanics and Systems<br>🥽 2D & 3D Development<br>👨‍🔬 2D Physics<br>🧵 2D Animation & UI Animation<br>💥 VFX<br>🌊 Unity URP & Shader Graph<br>♟ Scriptable Objects<br>💨 DOTween<br>⏳ Coroutine<br>🖼 Pixel art with Aseprite</p>
 
 ###
+
+<h2 data-importer="text" align="left">🧠 Software Development</h2>
+
+###
+
+<p>
+💡 Object-Oriented Programming<br>
+🏗 Software Architecture<br>
+🧩 Design Patterns<br>
+🔀 Version Control with Git<br>
+🗄 Database Integration<br>
+🔌 REST API Development<br>
+🧪 Debugging & Troubleshooting
+</p>
+
+###
+
 
 <h2 data-importer="text" align="left">✨ Highlighted Projects</h2>
 
@@ -134,7 +149,7 @@
 
 📸 [Camssify](https://github.com/DAC-Developers-And-Coders/Camssify-JOVI-Python) - Python | OpenCV | Google APIs | OAuth<br>
 🃏 [PersonaAPI](https://github.com/DAC-Developers-And-Coders/PersonaAPI) - Python | FastAPI | SQLite | JavaScript<br>
-🛰 [NebulaNoise](https://github.com/DAC-Developers-And-Coders/GS_NebulaNoise) - Python | Calculus
+🌌 [NebulaNoise](https://github.com/DAC-Developers-And-Coders/GS_NebulaNoise) - Python | Mathematical Modeling
 
 ###
 
@@ -145,7 +160,7 @@
 🎭 [Anxiety](https://github.com/AndreVictoN/TCC_Anxiety) - Unity | C# | Design Patterns | Dialogue | Turn-Based Combat<br>
 🎶 [RythmReaper](https://github.com/AndreVictoN/RythmReaper) - Unity | C# | Music Synchronization | Scoring | Health<br>
 💫 [SpinnerBlades](https://github.com/AndreVictoN/SpinnerBlades) - Unity | C# | Player vs. CPU | QTE | Button Mashing | 2D Physics<br>
-🦍 [MineKong](https://github.com/5byp8r/DonkeyKongGameLP1) - C++ | SFML | Game Loop | Collisions | On-Screen Object Positioning
+🦍 [MineKong](https://github.com/5byp8r/DonkeyKongGameLP1) - C++ | SFML | Game Loop | Physics & Collisions
 
 ###
 
