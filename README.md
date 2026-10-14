@@ -151,6 +151,7 @@
 ###
 
 📸 [Camssify](https://github.com/DAC-Developers-And-Coders/Camssify-JOVI-Python) - Python | OpenCV | Google APIs | OAuth<br>
+🎶 [MusicSpotlight](https://github.com/DAC-Developers-And-Coders/MusicSpotlight) - Python | Web Scraper | Web Crawler | FastAPI | Node.js | Tailwind CSS<br>
 🃏 [PersonaAPI](https://github.com/DAC-Developers-And-Coders/PersonaAPI) - Python | FastAPI | SQLite | JavaScript<br>
 🌌 [NebulaNoise](https://github.com/DAC-Developers-And-Coders/GS_NebulaNoise) - Python | Mathematical Modeling
 
