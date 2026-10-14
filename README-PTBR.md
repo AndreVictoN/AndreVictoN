@@ -87,10 +87,11 @@
 ###
 
 <div data-importer="techs" align="left">
-&#x20; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-&#x20; <img width="12" />
-&#x20; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-&#x20; <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
 
 ###
@@ -100,19 +101,23 @@
 ###
 
 <div data-importer="techs" align="left">
-&#x20; <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-&#x20; <img width="12" />
-&#x20; <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-&#x20; <img width="12" />
-&#x20; <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-&#x20; <img width="12" />
-&#x20; <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
-&#x20; <img width="12" />
-&#x20; <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-&#x20; <img width="12" />
-&#x20; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-&#x20; <img width="12" />
-&#x20; <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
 
 ###
